@@ -1,0 +1,34 @@
+int func ci(int x, int y)
+{ 
+decl int z;
+decl cr cx =  :r:; 
+decl int t = 2221;
+decl int y ;
+rt z;
+}; 
+
+str func hs( str a, str b)
+{
+decl str c;
+rt c;
+}; 
+genl
+{
+decl int y;
+decl str s = "sdsds";
+decl int c = 1233;
+decl str sa;
+decl cr a;
+if ( y @ sa ) {
+decl int x;
+}
+else {
+x = y + c;
+}
+sa = "1234567890"; 
+c = fi(x,y);  
+print "контрольный пример"; 
+print z; 
+print sc; 
+rt 0; 
+};
